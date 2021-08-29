@@ -6,7 +6,7 @@
     </h2>
 
 ### About:
-* folium makes it easy to visualize data that's been manipulated in Python on an interactive leaflet map
+*Earthquake data displayed on an interactive map, designed with folium, a python library that makes it easy to visualize data that's been handled in Python on an interactive leaflet map
 
  ## Relevant links
 
