@@ -6,7 +6,7 @@
     </h2>
 
 ### About:
-Earthquake data displayed on an interactive map with simple pop up feature, designed with folium, a python library that makes it easy to visualize data that's been handled in Python on an interactive leaflet map
+Earthquake magnitude data displayed on an interactive map with simple pop up feature, designed with folium, a python library that makes it easy to visualize data that's been handled in Python on an interactive leaflet map
 
  ## Relevant links
 
