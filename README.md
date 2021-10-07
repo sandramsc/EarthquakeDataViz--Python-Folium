@@ -13,7 +13,8 @@ Earthquake magnitude data displayed on an interactive map with simple pop up fea
    [Earthquake data set from USGS-past day](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv)
    
 ## Vizualising the map on loacal machine
-- After cloning the git repository navigate to the map.html file to open the file in your browser
+- Clone git repository 
+- Open map.html file in your browser
 - The map.html contains the Leaflet.js/JavaScript dependencies required to display the map
    
   ## Sample Example
